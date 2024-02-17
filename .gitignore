@@ -126,5 +126,7 @@ local_settings.py
 _local_settings.py
 gunicorn-error-log
 db.sqlite3
+Django-Estudo.code-workspace
+launch.json
 db copy.sqlite3
 static/
